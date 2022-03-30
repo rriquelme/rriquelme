@@ -1,4 +1,12 @@
-### Hi there 👋
+### Electronic Engineer
+Working on [Qscire](https://www.qscire.com/)
+
+### Interests: 
+- Python
+- EDA
+- Stocks 
+- 3d printing
+
 
 <!--
 **rriquelme/rriquelme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
