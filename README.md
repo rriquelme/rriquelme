@@ -1,9 +1,8 @@
 ### Electronic Engineer
-R&D Engineer, at [qScire](https://www.qscire.com/)
 
 #### Interests: 
 - Python
-- EDA
+- Data Science
 - Stocks 
 - 3d printing
 
