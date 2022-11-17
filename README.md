@@ -3,7 +3,8 @@
 #### Interests: 
 - Python
 - Data Science
-- Stocks 
+- AWS
+- Stocks
 - 3d printing
 
 #### Contact:
