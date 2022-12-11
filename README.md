@@ -9,6 +9,7 @@
 
 #### Programming Languages:
 - Python
+- SQL
 - C
 - C++
 - Arduino
