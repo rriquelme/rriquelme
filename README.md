@@ -8,14 +8,14 @@
 - 3d printing
 
 #### Programming Languages:
-- Python
-- SQL
-- C
-- C++
-- Arduino
-- Kotlin
+- Python / SQL / C / C++ / Arduino / Kotlin <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rriquelme&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### Contact:
 [LinkedIn](https://www.linkedin.com/in/robertriquelmesaez)<br>
 robert.riquelme.saez@gmail.com
+
+---
+[![](https://visitcount.itsvg.in/api?id=rriquelme&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
