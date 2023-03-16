@@ -1,11 +1,15 @@
 ### Electronic Engineer
+Currently coursing:
+- Applied Data Science Program - MIT & Great Learning
+- Robotics Developer Master Class 2023 - The Construct
 
 #### Interests: 
-- Python
 - Data Science
+- Python
+- Machine Learning
+- ROS
 - AWS
 - Stocks
-- 3d printing
 
 #### Programming Languages:
 Python / SQL / C / C++ / Arduino / Kotlin <br>
