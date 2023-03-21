@@ -6,7 +6,6 @@ Currently coursing:
 - Data Science
 - Python
 - Machine Learning
-- ROS
 - AWS
 - Stocks
 
