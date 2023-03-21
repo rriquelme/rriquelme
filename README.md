@@ -1,7 +1,6 @@
 ### Electronic Engineer
 Currently coursing:
 - Applied Data Science Program - MIT & Great Learning
-- Robotics Developer Master Class 2023 - The Construct
 
 #### Interests: 
 - Data Science
