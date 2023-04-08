@@ -5,6 +5,7 @@ Currently coursing:
 #### Interests: 
 - Data Science
 - Python
+- SQL
 - Machine Learning
 - AWS
 - Stocks
