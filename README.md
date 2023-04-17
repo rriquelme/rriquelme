@@ -8,7 +8,6 @@ Currently coursing:
 - SQL
 - Machine Learning
 - AWS
-- Stocks
 
 #### Programming Languages:
 Python / SQL / C / C++ / Arduino / Kotlin <br>
