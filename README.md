@@ -10,7 +10,7 @@ Currently coursing:
 - AWS
 
 #### Programming Languages:
-Python / SQL / C / C++ / Arduino / Kotlin <br>
+Python / SQL / C / C++ / Arduino <br>
 
 ---
 [LinkedIn](https://www.linkedin.com/in/robertriquelmesaez) - robert.riquelme.saez@gmail.com
