@@ -3,10 +3,10 @@ Currently coursing:
 - Applied Data Science Program - MIT & Great Learning
 
 #### Interests: 
-- Data Science
+- Machine Learning
 - Python
 - SQL
-- Machine Learning
+- Data Science
 - AWS
 
 #### Programming Languages:
