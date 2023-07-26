@@ -1,9 +1,6 @@
 ### Electronic Engineer
 - Looking for a job in Australia.
 
-Currently coursing:
-- Applied Data Science Program - MIT & Great Learning
-
 #### Interests: 
 - Machine Learning
 - Python
@@ -11,6 +8,10 @@ Currently coursing:
 - Azure
 - AWS
 - GCP
+
+#### Currently coursing:
+- Applied Data Science Program - MIT & Great Learning
+
 
 #### Programming Languages:
 Python / SQL / C / C++ / Arduino <br>
