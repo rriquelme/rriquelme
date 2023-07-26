@@ -6,8 +6,9 @@ Currently coursing:
 - Machine Learning
 - Python
 - SQL
-- Data Science
+- Azure
 - AWS
+- GCP
 
 #### Programming Languages:
 Python / SQL / C / C++ / Arduino <br>
