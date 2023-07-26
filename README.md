@@ -1,4 +1,6 @@
 ### Electronic Engineer
+- Looking for a job in Australia.
+
 Currently coursing:
 - Applied Data Science Program - MIT & Great Learning
 
