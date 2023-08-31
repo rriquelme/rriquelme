@@ -5,9 +5,8 @@
 - Machine Learning
 - Python
 - SQL
-- Azure
 - AWS
-- GCP
+- GitHub Actions
 
 #### Currently coursing:
 - Applied Data Science Program - MIT & Great Learning
