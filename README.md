@@ -4,9 +4,9 @@
 #### Interests: 
 - Machine Learning
 - Python
-- SQL
 - AWS
 - GitHub Actions
+- Docker
 
 #### Currently coursing:
 - Applied Data Science Program - MIT & Great Learning
