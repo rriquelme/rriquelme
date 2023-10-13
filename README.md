@@ -1,5 +1,5 @@
 ### Electronic Engineer
-- Looking for a job opportunity in Australia.
+- Looking for a job opportunity in Australia, meanwhile on Vacation!
 
 #### Interests: 
 - Machine Learning
