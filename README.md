@@ -9,7 +9,7 @@
 - Docker
 - GitHub Actions
 
-#### Favorite boards:
+#### Favourite boards:
 STM32F429 / Photon from Particle IoT / LoPy & WiPy from Pycom / Raspberry Pi / Beaglebone
 
 #### Programming Languages:
