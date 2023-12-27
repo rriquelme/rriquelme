@@ -1,6 +1,6 @@
 ### Electronic Engineer
 - Looking for a job opportunity in Australia, meanwhile on Vacation!
-- About me: [rriquelme.github.io/](https://rriquelme.github.io/)
+- About me: [rriquelme.github.io](https://rriquelme.github.io/)
 
 #### Interests: 
 - AWS
