@@ -4,10 +4,10 @@
 
 #### Interests: 
 - AWS
+- Machine Learning
 - AI
-- GCP
-- Embedded Systems
 - Docker
+- GCP
 - GitHub Actions
 
 #### Favourite boards:
