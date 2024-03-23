@@ -1,17 +1,15 @@
-### Cloud Engineer
-- Working in Australia, living in Perth!
-- About me: [rriquelme.github.io](https://rriquelme.github.io/)
+# Welcome to My GitHub Profile!
+Hi, I'm Roberto! I'm a **Cloud Engineer** with a keen interest in various technologies and programming languages. I love exploring new concepts, solving complex problems, and continuously learning to improve my skills. 
 
-#### Interests: 
-- AWS
-- Machine Learning
-- AI
-- Docker
-- GCP
-- GitHub Actions
+## Languages and Tools:
+- **Cloud Platforms:** AWS services (EC2, S3, Lambda, CloudFormation), Terraform, GCP, Vultr.
+- **Container Orchestration:** Docker, Kubernetes.
+- **Compute and Batch Processing:** Sun Grid Engine, Batch Processing in VMs on Private Clouds.
+- **Scripting and Programming Languages:** Python (with scikit-learn, TensorFlow), Bash, HTML, SQL.
+- **Version Control Systems:** GIT, SVN, P4.
+- **Other Tools:** GitHub Actions, GitLab, JIRA, Linux, Databricks, JSON, YAML.
+- **Languages:** English (C1 – IELTS General), Spanish (Native), Portuguese (Brazil – Basic).
 
-#### Programming Languages:
-Python / SQL / C / C++ / Arduino <br>
-
----
-[LinkedIn](https://www.linkedin.com/in/robertriquelmesaez) - robert.riquelme.saez@gmail.com
+## Let's Connect!
+- **LinkedIn:** [Roberto Riquelme Saez](https://www.linkedin.com/in/robertriquelmesaez)
+- **Email:** robert.riquelme.saez@gmail.com
