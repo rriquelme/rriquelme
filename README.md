@@ -5,7 +5,7 @@ Hi, I'm Roberto! I'm a **Software Engineer** with a keen interest in various tec
 - **Cloud Platforms:** AWS services (EC2, S3, Lambda, CloudFormation), Terraform, GCP, Vultr.
 - **Container Orchestration:** Docker, Kubernetes.
 - **Compute and Batch Processing:** Sun Grid Engine, Batch Processing in VMs on Private Clouds.
-- **Scripting and Programming Languages:** Python (with scikit-learn, TensorFlow), Bash, HTML, SQL.
+- **Scripting and Programming Languages:** Python (scikit-learn, TensorFlow, FastAPI), Bash, HTML, SQL.
 - **Version Control Systems:** GIT, SVN, P4.
 - **Other Tools:** GitHub Actions, GitLab, Confluence, JIRA, Linux, Databricks, JSON, YAML.
 - **Languages:** English (C1 – IELTS General), Spanish (Native), Portuguese (Brazil – Basic).
